@@ -47,10 +47,11 @@
  
 
 .social-icons {
-	position: fixed;
-	left: 0;
-	top: 200px;
-	z-index: 2000;
+	color: white;
+	text-decoration: none;
+	padding: .7rem;
+	display: flex;
+	transition: all .5s;
 }
 
 .social-icons {
